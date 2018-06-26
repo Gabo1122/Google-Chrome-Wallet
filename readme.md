@@ -1,19 +1,18 @@
-<p align="center"><img src="https://btk.community/img/logo.png"></p>
+<p align="center"><img src="http://pmptoken.xyz/img/logo.png"></p>
 
-## Bitcoin Token Google Chrome Wallet
+## Pump Token Wallet
 
-The Bitcoin Token team is happy to provide our community with an easy to use, secure web wallet for sending, receiving and storing your bitcoin tokens. The wallet extension can be found at the [Google Web Store](https://chrome.google.com/webstore/detail/bitcoin-token-wallet/nohiklneeaopgamcbjogdklganoihaoo) and it's as easy as one-click to install and begin using. 
+Easy to use, secure web wallet for sending, receiving and storing your pump tokens.
 
 ## Features Include
 
 - Initial account security with a 12-word seed phrase.
 - Import and Export functionality of the private keys for easy backup/restore.
 - The ability to create as many Ethereum addresses as you like.
-- Sidebar panel with price ticker information provided by [Coinlib](https://coinlib.io).
 - Auto-recommendation of sending gas fee and gas amount for the novice users.
 - Simplicity
 
-This wallet is exclusive to BTK tokens, you can't load other ERC-20 tokens into this wallet.
+This wallet is exclusive to Pump tokens, you can't load other ERC-20 tokens into this wallet.
 
 ## Security Vulnerabilities
 
